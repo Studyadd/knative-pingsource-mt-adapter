@@ -1,2 +1,2 @@
-FROM gcr.io/knative-releases/knative.dev/operator/cmd/operator@sha256:090d6245067999cad407edbfa624ffc6cf6151562e23b7fde8c8fb924ace3fc7
+FROM gcr.io/knative-releases/knative.dev/eventing/cmd/mtping@sha256:aa4524d8d7bea50866d311bab4ce69a201e0f27c856eccf29f7573b734e08537
 MAINTAINER Q
